@@ -1,29 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
 
 :root{
-    --background_color : #393838e1;
+    --background_color : #d4d0d0e1;
     --border_color: black;
+}
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(8, 8, 8);
 }
 *{
     margin: 0;
     padding: 0;
 }
 body{
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-    background-blend-mode:difference;
+    width: 60%;
+    margin: 30px auto;
+    
+
+    /* background-image: url(background.jpg); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* height: 100vh; */
+    /* background-blend-mode:difference; */
     font-family:'Combo', cursive; 
 }
-.background-image{
-   filter:blur(50px);
+img{
+    width: 20%;
+
 }
 .heading{
     align-items: center;
     text-align: center;
     background-color: var(--background_color);
-    padding: 2rem;
+    padding: 1rem;
     box-sizing: border-box;
     display: block;
 
