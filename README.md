@@ -1,12 +1,11 @@
-# Mark_seven_Pirate_speak
+# Mark_seven_Groot_speak
 
-This is pirate speaking transaltor.
+This is Groot speaking transaltor.
 
-Pirates use alot of code language of ships and yards.
+Groot used to convey with nature alot,
 
-So it is used to help in conversation with jack.
+So it is used to help in conversation with groot.
 
-Jack loves rum helps you to get the transaltion.
 
 Compenents of desgin:
 
